@@ -36,10 +36,11 @@ TASKS:
     2.6 Inclusão no metaverso - MARIA
 
 - Adicionar conteúdo das pesquisas ao LaTeX
-    Adicionados ao LaTeX
+    Adicionados ao LaTeX(
           -Realidade Virtual e Realidade Aumentada
            - Relações virtuais
            - Ambientes virtuais colaborativos
            - Proposta do metaverso
+  )
   
 
