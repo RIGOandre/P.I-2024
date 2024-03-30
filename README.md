@@ -43,4 +43,4 @@ TASKS:
            - Proposta do metaverso
   )
   
-
+- Definir pergunta problema
