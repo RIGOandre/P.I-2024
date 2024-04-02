@@ -44,4 +44,8 @@ TASKS:
   )
   
 - Definir pergunta problema
-  Diferença entre as relações sociais e relaçaões virtuais sociais no metaverso.
+Diferença entre as relações sociais e relaçaões virtuais sociais no metaverso.
+
+
+
+
