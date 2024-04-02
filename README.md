@@ -1,6 +1,6 @@
 # P.I-2024
 projeto disciplina Projeto Integrador III,
-
+Diferença entre as relações sociais e relaçaões virtuais sociais no metaverso.
 Somos o grupo N 04 do P.I 2024, 
 - Integrantes
     André Luiz Vicenzi Rigo,
@@ -40,9 +40,8 @@ TASKS:
            - Relações virtuais
            - Ambientes virtuais colaborativos
            - Proposta do metaverso
-  
-- Definir pergunta problema
-Diferença entre as relações sociais e relaçaões virtuais sociais no metaverso.
+
+
 
 
 
