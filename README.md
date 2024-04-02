@@ -32,16 +32,14 @@ TASKS:
     2.4 Ambientes virtuais colaborativos (tipos de ambientes virtuais, pesquisar sobre alguns e falar) - GABRIEL * 
     
     2.5. Relações sociais virtuais - LUANI
-    
+  
     2.6 Inclusão no metaverso - MARIA
-
 - Adicionar conteúdo das pesquisas ao LaTeX
     Adicionados ao LaTeX(
           -Realidade Virtual e Realidade Aumentada
            - Relações virtuais
            - Ambientes virtuais colaborativos
            - Proposta do metaverso
-  )
   
 - Definir pergunta problema
 Diferença entre as relações sociais e relaçaões virtuais sociais no metaverso.
