@@ -42,7 +42,7 @@ TASKS:
            - Proposta do metaverso
 
 
-
+iniciar
 
 
 
