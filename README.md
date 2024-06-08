@@ -9,6 +9,8 @@ Somos o grupo N 04 do P.I 2024,
     Luani Aparecida Pereira Chaves,
     Maria Luiza Frozza Rhoden.
 
+Pergunta: Diferença entre relaçoes sociais e relaçaoes virtuais sociais no metaverso
+
 - Links
     Overleaf: https://www.overleaf.com/9477466177bvbqhgqykysv#bcc088
   
