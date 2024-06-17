@@ -46,6 +46,6 @@ TASKS:
 
 iniciar
 
-5 artigos
+5 artigos v
 
 briefing
