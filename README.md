@@ -43,6 +43,7 @@ TASKS:
            - Ambientes virtuais colaborativos
            - Proposta do metaverso
 
+-Elaboração de wireframes
 
 iniciar
 
