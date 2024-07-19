@@ -17,6 +17,9 @@ Pergunta: Diferença entre relaçoes sociais e relaçaoes virtuais sociais no me
 - Docs
   https://docs.google.com/document/d/1xvsf3KrhvLSAb-YIwi3S_a_bEeOiR0Ss6dSakeAxMI8/edit?usp=sharing
 
+- Figma
+  https://www.figma.com/design/ujKPYeL3d8LNQUB2MEkVF0/Wireframe-P.I-III?node-id=0-1&t=21VwumcdDTCGhopb-1
+
 TASKS:
 
 - Definir tópicos da fundamentação teórica,
@@ -50,5 +53,7 @@ iniciar
 5 artigos v
 
 briefing v
+
+
 
 wireframes - planejamento 9/10
