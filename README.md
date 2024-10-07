@@ -54,4 +54,5 @@ iniciar
 briefing v
 wireframes - planejamento 9/10 v
 protótipo, esquematização v
-init protótipo
+
+artigo entregue
