@@ -58,3 +58,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     updateSlide();  
 });
+
+/////////////////////////////////////////////////////////////////////////
+
+document.querySelectorAll('.scroll').forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault(); // Impede o comportamento padrão do link
+      
+      const targetClass = this.getAttribute('data-target');
+      const targetSection = document.querySelector('.' + targetClass);
+      
+      // Verifica se a seção alvo existe e faz a rolagem suave até lá
+      if (targetSection) {
+        targetSection.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  });
+  
