@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Metaverso</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="../static/css/style.css">
 </head>
 <body>
@@ -13,13 +14,13 @@
                 <img src="../static/images/logo.png" alt="Logo" class="logo">
             </div>
             <ul>
-                <li><a href="#inicio">Início</a></li>
-                <li><a href="#historia">História</a></li>
-                <li><a href="#ambientes">Ambientes</a></li>
-                <li><a href="#ra-rv">RA & RV</a></li>
-                <li><a href="#relacoes">Relações</a></li>
-                <li><a href="#inclusao">Inclusão</a></li>
-                <li><a href="#futuro">Futuro</a></li>
+                <li><a href=".inicio"  class="scroll" data-target="inicio">Início</a></li>
+                <li><a href=".historia" class="scroll" data-target="historia">História</a></li>
+                <li><a href=".ambientes" class="scroll" data-target="ambientes">Ambientes</a></li>
+                <li><a href=".ra-rv" class="scroll" data-target="ra-rv">RA & RV</a></li>
+                <li><a href=".relacoes" class="scroll" data-target="relacoes">Relações</a></li>
+                <li><a href=".inclusao" class="scroll" data-target="inclusao">Inclusão</a></li>
+                <li><a href=".futuro" class="scroll" data-target="futuro">Futuro</a></li>
             </ul>
         </nav>
     </header>
@@ -72,7 +73,7 @@
     </div>
     
     
-    <section>
+    <section class="ambientes">
         <div>
             <h2 class='t-hist'>Ambientes Virtuais Colaborativos</h2>
         </div>
@@ -102,25 +103,26 @@
         </div>
         
         <div class="ball1 ball-left" style=" border: rgba(255, 0, 0, 0) solid 20px;">
-            <div class="btn-ball">
-                <img src="../static/images/vr.png" alt="">
-                <p class="txt-ball" style="width: 280px; margin: 0 auto; align-items: center; text-align: center;">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci rem labore perferendis, itaque exercitationem fugit nisi placeat assumenda ullam eos, neque, pariatur architecto nostrum aliquid magni quam explicabo voluptates natus.
-                </p>
-            </div>
-        </div>
+         
     </section>
         
 
 
 
-    <section>
-        <!-- RA & RV -->
+    <section class="ra-rv">
+        <div class="diagonal-box">
+            <div class="box-left">
+              <button class="btn" onclick="location.href='#realidade-virtual'">Realidade Virtual</button>
+            </div>
+            <div class="box-right">
+              <button class="btn" onclick="location.href='#realidade-aumentada'">Realidade Aumentada</button>
+            </div>
+          </div>
     </section>
 
 
     <section>
-        <section>
+        <section class="relacoes">
             <div>
                 <h2 class='t-hist'>Relações Virtuais</h2>
             </div>
@@ -134,7 +136,7 @@
             </div>
     </section>
 
-    <section>
+    <section class="inclusao">
         <div>
             <h2 class='t-hist'>Inclusão no Metaverso</h2>
         </div>
@@ -157,7 +159,7 @@
         </div>
     </section>
 
-    <section>
+    <section class="futuro">
         <div>
             <h2 class='t-hist'>O futuro do Metaverso</h2>
         </div>
@@ -219,6 +221,8 @@
         <p>Copyrighted by <a href="#">NewUniverse</a></p>
     </div>
 </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 </body>
 </html>
