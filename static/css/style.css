@@ -4,23 +4,28 @@
     box-sizing: border-box;
 }
 
-body, html {
+html, body {
     height: 100%;
-    font-family: 'Arial', sans-serif;
-    background-color: #333;
-    color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: white;
 }
+
+body {
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 20%, rgba(12,12,23,1) 14%, rgb(3, 2, 31) 200%);
+    background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(12,12,23,1) 44%, rgb(3, 2, 31) 200%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(12,12,23,1) 44%, rgb(3, 2, 31) 200%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#050260",GradientType=1);
+
+}
+
 
 header {
     width: 100%;
-    padding: 1em;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.774);
     border-color: beige solid 2px;
     position: fixed;
-    display: flex;
-    /* justify-content: space-between; */
-    align-items: center;
-    text-align: center;
     z-index: 1;
 
 }
@@ -33,7 +38,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 50%;
+    width: 100%;
 }
 
 header nav ul {
@@ -45,12 +50,13 @@ header nav ul {
 }
 
 nav ul li {
-    margin-right: 20px;
+    margin-right: 60px;
 }
 
 header nav a{
     color: #fff;
     text-decoration: none;
+    font-size: 20px;
 }
 
 .hero {
@@ -275,8 +281,9 @@ footer {
 }
 
 .text-container, .image-container {
-    margin-bottom: 20px;
-    width: 500px;
+    margin-bottom: 40px;
+    width: 400px;
+    text-align: center;
 }
 
 .slider-controls {
@@ -289,7 +296,7 @@ footer {
 .dot {
     height: 15px;
     width: 15px;
-    margin: 0 5px;
+    margin: 0 5px 80px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
@@ -297,16 +304,16 @@ footer {
 }
 
 .dot.active {
-    background-color: #660066; /* Cor ativa */
+    background-color: #4000ff; /* Cor ativa */
 }
 
 #prev-btn, #next-btn {
     background: none;
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 24px;
     cursor: pointer;
-    margin: 0 10px;
+    margin: 0 10px 80px;
 }
 
 
@@ -315,16 +322,9 @@ footer {
     width: 250px;
     height: 250px;
 }
-button {
-    background: none;
-    border: none;
-    color: white;
-    font-size: 2em;
-    cursor: pointer;
-}
 
 button:hover {
-    color: #ccc;
+    color: #000000;
 }
 
 .slider-dots {
