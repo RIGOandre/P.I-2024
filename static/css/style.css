@@ -119,6 +119,26 @@ header nav a{
     margin: 0 auto;
 }
 
+.imgrela{
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+
+.relacoes img {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%;
+
+}
+
+.txt-hist {
+    margin-top: 10px; 
+    max-width: 800px; 
+    margin: 10px auto;
+}
 
 
 /* @media (max-width: 768px) {
