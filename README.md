@@ -50,6 +50,8 @@ TASKS:
 
 iniciar
 
+protótipo 
+
 5 artigos v
 briefing v
 wireframes - planejamento 9/10 v
