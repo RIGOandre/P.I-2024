@@ -59,4 +59,4 @@ protótipo, esquematização v
 
 artigo entregue
 
-init site
+init site final
